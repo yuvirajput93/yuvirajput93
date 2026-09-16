@@ -1,19 +1,17 @@
 # Hi, I'm Yuvraj Singh 👋
 
-### Software Developer \| Full-Stack Developer \| Problem Solver
+### Software Developer | Full-Stack Developer | Problem Solver
 
-I'm a **B.Tech student in Computer Science and Engineering at IIT (ISM) Dhanbad**,
-passionate about building scalable web applications, solving algorithmic
-problems, and learning modern software engineering practices.
+I'm a **B.Tech student in Computer Science and Engineering at IIT (ISM) Dhanbad**, passionate about building scalable web applications, solving algorithmic problems, and learning modern software engineering practices.
 
--   🎓 IIT (ISM) Dhanbad --- B.Tech in Computer Science and Engineering
--   💻 Focus: **C++, JavaScript, DSA, Full-Stack Development**
--   🚀 Building with the **MERN stack**
--   🧩 200+ LeetCode problems solved
--   🏆 Codeforces: **1420**
--   ⭐ HackerRank: **4★ Problem Solving**
+- 🎓 IIT (ISM) Dhanbad — B.Tech in Computer Science and Engineering
+- 💻 Focus: **C++, JavaScript, DSA, Full-Stack Development**
+- 🚀 Building with the **MERN stack**
+- 🧩 200+ LeetCode problems solved
+- 🏆 Codeforces: **1420**
+- ⭐ HackerRank: **4★ Problem Solving**
 
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Tech Stack
 
@@ -29,8 +27,7 @@ problems, and learning modern software engineering practices.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind
-CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
 
@@ -46,45 +43,53 @@ CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Featured Projects
 
 ### 🐝 CampusHive
 
-**MERN \| MongoDB \| Express.js \| React.js \| Node.js**
+**MERN | MongoDB | Express.js | React.js | Node.js**
 
-A full-stack student networking platform with: - 📰 Feeds and content
-sharing - 🔎 User search - 🤝 Follow / Unfollow - 📊 Polls - 🕵️
-Anonymous confessions - 🔐 JWT authentication and email verification -
-🧩 RESTful APIs with structured error handling - ⚙️ CI/CD deployment and
-modular backend architecture
+A full-stack student networking platform with:
 
-👉 [View Repository](https://github.com/YuvrajSingh/CampusHive)
+- 📰 Feeds and content sharing
+- 🔎 User search
+- 🤝 Follow / Unfollow
+- 📊 Polls
+- 🕵️ Anonymous confessions
+- 🔐 JWT authentication and email verification
+- 🧩 RESTful APIs with structured error handling
+- ⚙️ CI/CD deployment and modular backend architecture
 
-------------------------------------------------------------------------
+👉 [View Repository](https://github.com/yuvirajput93/CampusHive)
+
+---
 
 ### 🏠 Hostel Management System
 
-**React \| Node.js \| Express.js \| MongoDB \| Mongoose**
+**React | Node.js | Express.js | MongoDB | Mongoose**
 
-A centralized hostel administration system designed to manage **1000+
-students** and **500+ rooms**.
+A centralized hostel administration system designed to manage **1000+ students** and **500+ rooms**.
 
-Key features: - Room allocation and deallocation - Automatic room
-assignment - Student search - REST API validation - Duplicate
-room-assignment prevention - O(n) auto-assignment algorithm
+Key features:
 
-👉 [View
-Repository](https://github.com/YuvrajSingh/Hostel-Management-System)
+- Room allocation and deallocation
+- Automatic room assignment
+- Student search
+- REST API validation
+- Duplicate room-assignment prevention
+- O(n) auto-assignment algorithm
 
-------------------------------------------------------------------------
+👉 [View Repository](https://github.com/yuvirajput93/Hostel-Management-System)
+
+---
 
 ### 🍔 Homely
 
 **React.js | Bootstrap | Context API | HTML | CSS | JavaScript**
 
-A responsive food ordering frontend application featuring:
+A responsive food ordering **frontend application** featuring:
 
 - 🍽️ Dynamic food menu
 - 🛒 Cart management
@@ -93,44 +98,49 @@ A responsive food ordering frontend application featuring:
 - 📱 Responsive UI design
 - 🎨 Clean and user-friendly interface
 
-👉 [View Repository](https://github.com/YuvrajSingh/Homely)
+👉 [View Repository](https://github.com/yuvirajput93/Homely)
 
-------------------------------------------------------------------------
+---
 
 ## 🧠 Competitive Programming
 
--   🟣 **Codeforces:** 1420 rating
--   🟢 **LeetCode:** 200+ problems solved
--   ⭐ **HackerRank:** 4★ Problem Solving
--   🏆 Ranked among the top **0.2% of 1.5M+ candidates** in JEE Advanced
+- 🟣 **Codeforces:** 1420 rating
+- 🟢 **LeetCode:** 200+ problems solved
+- ⭐ **HackerRank:** 4★ Problem Solving
+- 🏆 Ranked among the top **0.2% of 1.5M+ candidates** in JEE Advanced
 
-------------------------------------------------------------------------
+---
 
 ## 🤝 Leadership & Community
 
-**President --- Fast Forward India**\
+**President — [Fast Forward India](https://example.com/fast-forward-india)**
+
 NGO run by IIT (ISM) Dhanbad students.
 
-**Organizer --- Srijan'25, IIT (ISM) Dhanbad**\
-Supported the Sponsorship Team in securing partnerships and funding for
-Eastern India's largest socio-cultural fest.
+**Organizer — Srijan'25, IIT (ISM) Dhanbad**
 
-**Design Team Member --- Mailer Daemon**\
-Contributed to digital creatives and visual assets for a student-run
-media body.
+Supported the Sponsorship Team in securing partnerships and funding for Eastern India's largest socio-cultural fest.
 
-------------------------------------------------------------------------
+**Design Team Member — Mailer Daemon**
+
+Contributed to digital creatives and visual assets for a student-run media body.
+
+---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YuvrajSingh)
-[![GitHub](https://img.shields.io/badge/GitHub-YuvrajSingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvrajSingh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/yuvirajput6978)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Blazefury)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajsingh6978/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-YuvrajSingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuvirajput93)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Blazefury-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/blazefury/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Blazefury-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Blazefury)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/yuvirajput6978)
 
 📧 **Email:** yuvirajput6978@gmail.com
 
-------------------------------------------------------------------------
+---
 
 > *"Build. Break. Learn. Repeat."*
