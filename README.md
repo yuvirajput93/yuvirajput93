@@ -113,7 +113,7 @@ A responsive food ordering **frontend application** featuring:
 
 ## 🤝 Leadership & Community
 
-**President — [Fast Forward India](https://example.com/fast-forward-india)**
+**President — [Fast Forward India](https://www.fastforwardindia.com/)**
 
 NGO run by IIT (ISM) Dhanbad students.
 
